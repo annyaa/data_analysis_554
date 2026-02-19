@@ -43,3 +43,20 @@ Open `analysis.ipynb` in VS Code and select the **Python 3 (ipykernel)** kernel 
 ### Key finding
 
 All four datasets share the same mean, variance, correlation (~0.816), and regression line (~y = 0.5x + 3.0), yet their scatter plots reveal fundamentally different structures: a clean linear relationship (I), a curve (II), a linear trend with one outlier (III), and a degenerate case driven by a single leverage point (IV).
+
+---
+
+## Literature Search: CDKN2A and ARF
+
+A systematic literature search across PubMed and Europe PMC for research on CDKN2A and its ARF (p14ARF) tumour suppressor product.
+
+### Files
+
+| File | Description |
+|---|---|
+| `plan.md` | Search plan and instructions |
+| `RESULTS.md` | Annotated results — 16 papers with titles, links, DOIs, and descriptions |
+
+### Coverage
+
+Papers span topics including the dual p16INK4a/p14ARF tumour suppressor function, CDKN2A/ARF deletions in leukaemia and lymphoma, epigenetic regulation via methylation and histone modification, immunotherapy targeting p14ARF, germline CDKN2A tumour spectrum, and CDKN2A loss in solid tumours (melanoma, neurofibromatosis, MPNSTs, liver cancer, neuroblastoma).
